@@ -26,11 +26,3 @@ sudo chmod -R 755 .
 npm install
 # start the app
 node app.js > app.out.log 2> app.err.log < /dev/null &
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
